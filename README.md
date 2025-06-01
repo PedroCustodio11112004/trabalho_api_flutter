@@ -1,20 +1,13 @@
 <<<<<<< HEAD
 # api_flutter
 
-A new Flutter project.
+Clonar ou baixar a aplicação.
 
-## Getting Started
+Dê um "flutter pub get" no terminal para instalar depêndencias.
 
-This project is a starting point for a Flutter application.
+Adicione a sua chave da API se possível.
 
-A few resources to get you started if this is your first Flutter project:
+Aplicação rodou em celular android conectado via USB e no emulador "Medium Phone API 35 emulator-5554 - mobile".
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Inicializar com "flutter run"
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# trabalho_api_flutter
->>>>>>> c051d99a8df9d2ee4edc9ef27528e532caf9cfb9
