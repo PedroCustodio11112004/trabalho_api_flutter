@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# api_flutter
+# Api_flutter
 
 Clonar ou baixar a aplicação.
 
